@@ -1,5 +1,5 @@
 CXX=g++
-CXXFLAGS= -O3 -fPIC -Wall -I../libvpx_x64_linux -I../libwebm_x64_linux -I../opus/include
+CXXFLAGS= -std=c++11 -O3 -fPIC -Wall -I../libvpx_x64_linux -I../libwebm_x64_linux -I../opus/include
 
 
 webm_mem_playback_x64: Exports.o AudioDecoder.o Video.o
