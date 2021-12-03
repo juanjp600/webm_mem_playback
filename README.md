@@ -1,6 +1,6 @@
 ## webm_mem_playback - simple webm video playback
 
-webm_mem_playback (FakeFish Games) is available under the
+webm_mem_playback (FakeFish Ltd.) is available under the
 BSD 3-clause license - see LICENSE_webm_mem_playback.txt
 for more details.
 
